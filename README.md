@@ -1,5 +1,5 @@
 # Sales-and-Finance-Analytics-on-Excel
-[LinkedIn Post]()
+[LinkedIn Post](https://www.linkedin.com/posts/mrajesh1312_excelmotherofbusinessintelligence-excelskills-activity-7118976927817723904-qgfo?utm_source=share&utm_medium=member_desktop)
 
 [Check it out codebasics](https://codebasics.io/courses/excel-mother-of-business-intelligence)
 
